@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
-import random
->>>>>>> c18ccc2838c7d2bf4ce118c5a875eafca319ab2a
 
+import random
 
 name = "Joe"
 question = "Will I win the lottery?"
